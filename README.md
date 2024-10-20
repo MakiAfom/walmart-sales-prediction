@@ -55,4 +55,4 @@ Targeted Promotions: Focus promotional efforts on products that showed the highe
 Economic Sensitivity: Adjust pricing strategies in response to economic indicators to stay competitive and retain customers.
 Conclusion
 Final Predictions: Accurate sales predictions helped Walmart reduce inventory shortages by 30% during peak seasons and increase overall sales by 10% through targeted promotions.
-Impact: Walmart can now better manage inventory, plan promotions, and optimize resource allocation based on the model's forecasts, leading to enhanced operational efficiency and increased profits.
+Impact: Walmart can now better manage inventory, plan promotions, and optimize resource allocation based on the model's forecasts, leading to enhanced operational efficiency and increased profits.![Screenshot (496)](https://github.com/user-attachments/assets/f92a2331-3416-46b6-9fdc-453cd0fc4b31)
