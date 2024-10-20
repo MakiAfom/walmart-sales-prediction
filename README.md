@@ -56,4 +56,14 @@ Economic Sensitivity: Adjust pricing strategies in response to economic indicato
 Conclusion
 Final Predictions: Accurate sales predictions helped Walmart reduce inventory shortages by 30% during peak seasons and increase overall sales by 10% through targeted promotions.
 Impact: Walmart can now better manage inventory, plan promotions, and optimize resource allocation based on the model's forecasts, leading to enhanced operational efficiency and increased profits.![Screenshot (496)](https://github.com/user-attachments/assets/f92a2331-3416-46b6-9fdc-453cd0fc4b31)
+
+![Screenshot (504)](https://github.com/user-attachments/assets/d9ba4703-2c7a-4435-9d0a-718b5c25d122)
+![Screenshot (499)](https://github.com/user-attachments/assets/099cd8c0-9dd9-49e3-9654-ab737047fd12)
+![Screenshot (500)](https://github.com/user-attachments/assets/75e4dcf1-9200-4bd9-82b4-2e2ec8a68752)
+![Screenshot (503)](https://github.com/user-attachments/assets/1cd949bc-b743-4891-8ff9-9b9d33d96cae)
+![Screenshot (505)](https://github.com/user-attachments/assets/01598bf2-1edd-4f52-b38c-c336d1cc8a37)
+![Screenshot (497)](https://github.com/user-attachments/assets/a0227477-d728-4f44-b786-3c18614bbf03)
+
+
+
 [Project 1.docx](https://github.com/user-attachments/files/17451336/Project.1.docx)
